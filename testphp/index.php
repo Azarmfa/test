@@ -6,4 +6,5 @@ echo "end";
 echo "again push";
 echo print_r($_SERVER['DOCUMENT_ROOT']);
 echo "ifelse";
+echo "master";
 ?>
