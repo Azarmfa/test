@@ -5,4 +5,5 @@ echo $name;
 echo "end";
 echo "jino";
 echo "azar";
+
 ?>
